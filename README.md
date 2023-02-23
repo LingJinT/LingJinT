@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email
 - ⚡ Fun fact: music, tour, movies, coding, thinking...
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LingJinT)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LingJinT&theme=gruvbox&column=-1&margin-w=7)](https://github.com/ryo-ma/github-profile-trophy)
 
