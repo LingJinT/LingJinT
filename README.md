@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingJinT&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingJinT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingJinT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LingJinT&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
