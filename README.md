@@ -2,7 +2,7 @@
 
 [![LingJinT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingJinT&show_icons=true&count_private=true&theme=gruvbox&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingJinT&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LingJinT&margin-w=1&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LingJinT&theme=gruvbox&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
