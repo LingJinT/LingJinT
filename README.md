@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+My+Frined!+Welcome!)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LingJinT)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LingJinT&Rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
