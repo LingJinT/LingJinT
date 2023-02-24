@@ -32,6 +32,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the main branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: main
+          branch: main
+          message: ""Generate Contribution Snake""
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
