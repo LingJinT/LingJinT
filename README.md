@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Hangzhou's shumenggongchang
 - 🌱 I’m currently learning webpack, vite, microApp, three.js, rust...
 - 💬 Ask me about anything you want...
