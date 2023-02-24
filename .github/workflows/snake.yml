@@ -17,11 +17,10 @@ jobs:
 
       - name: Generate Snake
         uses: Platane/snk@master
-        id: snake-gif
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          svg_out_path: ./assets/github-user-contribution.svg
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
