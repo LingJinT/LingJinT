@@ -19,4 +19,6 @@
 
 ![snake](./assets/github-user-contribution.svg)
 
+![](https://activity-graph.herokuapp.com/graph?username=LingJinT&theme=github)
+
 
